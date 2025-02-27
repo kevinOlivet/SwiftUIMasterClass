@@ -7,7 +7,7 @@
 import SwiftUI
 
 @main
-struct SwiftUI_LinkApp: App {
+struct Gradient_TextApp: App {
   var body: some Scene {
     WindowGroup {
       ContentView()
